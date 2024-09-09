@@ -1,5 +1,5 @@
 {
-	"title": "随机提问",
+	"title": "957班随机提问",
 	"item": "物品",
 	"character": "角色",
 	"weapon": "武器",
@@ -22,8 +22,8 @@
 	"connectionFailed": "连接失败！",
 	"confirmButton": "确认",
 	"cancelButton": "取消",
-	"disclaimer": "本网站使用的所有资源均归米哈游所有。",
-	"fanmade": "这是一个粉丝制作的应用，尽情享受吧！",
+	"disclaimer": "本程序使用的所有资源均归米哈游所有。",
+	"fanmade": "这是一个op制作的应用，尽情享受吧！",
 	"pressToContinue": "点击空白区域继续",
 	"installInstruction": "安装到主屏幕/桌面的教程",
 	"share": "分享",
